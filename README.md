@@ -1,12 +1,12 @@
 ### About me
 
-<a href="https://instagram.com/puddingi228">
+<a href="https://instagram.com/puddingi228" target="_blank">
   <img align="left" alt="dasom's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://linkedin.com/in/다솜-김-611008233">
+<a href="https://linkedin.com/in/다솜-김-611008233" target="_blank">
   <img align="left" alt="dasom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCw2v-EFHM2R_PidUq68_QIA">
+<a href="https://www.youtube.com/channel/UCw2v-EFHM2R_PidUq68_QIA" target="_blank">
   <img align="left" alt="dasom's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
