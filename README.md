@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/다솜-김-611008233">
   <img align="left" alt="dasom's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.youtube.com/c/코덕코덕">
+<a href="https://www.youtube.com/channel/UCw2v-EFHM2R_PidUq68_QIA">
   <img align="left" alt="dasom's Youtube" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
 </a>
 
